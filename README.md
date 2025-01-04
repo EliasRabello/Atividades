@@ -1,2 +1,2 @@
 # Atividades
- Trabalhos sobre linguagem de programação Python. 
+ Trabalhos sobre: A linguagem de programação Python. 
